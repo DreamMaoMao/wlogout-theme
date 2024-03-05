@@ -1,5 +1,7 @@
 # wlogout-theme
 
+https://github.com/DreamMaoMao/wlogout-theme/assets/30348075/cd4a061f-0636-4740-abf8-0c1dfd352f0e
+
 ```
 mkdir -p ~/.config/wlogout
 git clone https://github.com/DreamMaoMao/wlogout-theme.git
