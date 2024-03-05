@@ -1,0 +1,41 @@
+{
+    "label" : "lock",
+    "action" : "/home/user/.config/wlogout/scripts/anction lock",
+    "text" : "  Lock   ",
+    "keybind" : "l"
+}
+
+{
+    "label" : "logout",
+    "action" : "/home/user/.config/wlogout/scripts/anction logout",
+    "text" : " Logout  ",
+    "keybind" : "m"
+}
+
+{
+    "label" : "shutdown",
+    "action" : "/home/user/.config/wlogout/scripts/anction shutdown",
+    "text" : "Shutdown ",
+    "keybind" : "d"
+}
+
+{
+    "label" : "reboot",
+    "action" : "/home/user/.config/wlogout/scripts/anction reboot",
+    "text" : " Reboot  ",
+    "keybind" : "r"
+}
+
+{
+    "label" : "suspend",
+    "action" : "/home/user/.config/wlogout/scripts/anction suspend",
+    "text" : " Suspend ",
+    "keybind" : "s"
+}
+
+{
+    "label" : "hibernate",
+    "action" : "/home/user/.config/wlogout/scripts/anction hibernate",
+    "text" : "Hibernate",
+    "keybind" : "h"
+}
