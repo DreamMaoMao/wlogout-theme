@@ -1,4 +1,4 @@
-# wlotout-theme
+# wlogout-theme
 
 ```
 mkdir -p ~/.config/wlogout
@@ -8,3 +8,6 @@ sed -i s#/home/user#$HOME#g sytle.css
 sed -i s#/home/user#$HOME#g layout
 cp ./* -r ~/.config/wlogout
 ```
+
+refer from:
+https://github.com/MrVivekRajan/Gruvminimal-Dots
